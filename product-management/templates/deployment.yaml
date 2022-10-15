@@ -4,6 +4,7 @@ metadata:
   name: product-management
   labels:
     app: product-management
+    name: test
 spec:
   replicas: {{ .Values.settings.nPods }}
   selector:
