@@ -3,12 +3,22 @@ entries:
   product-management:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-15T15:38:49.017749+06:00"
+    created: "2022-10-15T17:40:47.632065+06:00"
     description: A Helm chart for Kubernetes
-    digest: 9d91b156bca8135a55c8ec331309ca4535dbb039daf4fe68e486a75bb4cd9cf5
+    digest: cb58c5bfece58794f49657a6af3b813571f3f80f99a6b247b4207b3829bafc41
+    name: product-management
+    type: application
+    urls:
+    - https://zakirhossain-dsi.github.io/helm-chart/product-management-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-15T17:40:47.626471+06:00"
+    description: A Helm chart for Kubernetes
+    digest: 0043b2d1d7490567193ae10a2385626b5a0249d7aa25893e788d1f37f9b753a3
     name: product-management
     type: application
     urls:
     - https://zakirhossain-dsi.github.io/helm-chart/product-management-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-15T15:38:49.017458+06:00"
+generated: "2022-10-15T17:40:47.623842+06:00"
